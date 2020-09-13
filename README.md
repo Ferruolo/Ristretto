@@ -6,7 +6,7 @@ The goal of ristretto is to use natural language processing to extract the core 
 * phrase_dataset: dataset for phrase_classifier, output by generate_dataset.py
 * scraper: method of scraping the guardian and moving words to vectors
 * generate_dataset.py: scrapes entire guardian homepage, outputs formated csvs to phrase_dataset
-* grouping.ipynb: Notebook where method of grouping vectiors is proven. As the project is not yet complete, this is probably the most interesting part of the project right now, as it is not complete
+* grouping.ipynb: Notebook where method of grouping vectiors is proven. As the project is not yet complete, this is probably the most interesting part of the project right now
 * phrase_classifier.ipynb: an lstm that brakes a corpus into phrases. Currently needs more data for better training
 * README.md: this file
 
